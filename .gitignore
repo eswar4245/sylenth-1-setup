@@ -1,0 +1,5 @@
+.cache/
+*.log
+.pnpm-store/
+build/
+.env
